@@ -1,0 +1,12 @@
+{
+    "urls": {
+        "baseUrl": "https://qubika.com/",
+        "loginUrl": "https://sample.com",
+        "signUpUrl": "https://sample.com/signup"
+    },
+    "users": {
+        "wfcUser": "test@user.com",
+        "wfcPassword": "password"
+    },
+    "includeShadowDom" : true 
+}
