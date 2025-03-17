@@ -32,7 +32,7 @@ cd cypress-framework
 npm install
 
 ## start the local webserver
-npm run cypress:wfc
+npm run cypress:qubika
 ```
 
 The `npm run cypress:wfc` script will run cypress locally.
